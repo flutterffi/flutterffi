@@ -10,7 +10,7 @@
 <div align="center">
   
   <!-- 顶部动态 Banner (科技感波浪背景) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=330&section=header&text=Flutter%20FFI&fontSize=120&fontColor=00f2ff&fontAlign=50&animation=fadeIn&desc=Bridging%20Dart%20to%20Native%20Realms&descAlign=50&descSize=-30" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=330&section=header&text=Flutter%20FFI&fontSize=120&fontColor=00f2ff&fontAlign=50&animation=fadeIn&desc=Bridging%20Dart%20to%20Native%20Realms&descAlign=-50&descSize=30" width="100%" />
 
   <!-- 动态打字效果 (Typing SVG) -->
   <a href="https://git.io/typing-svg">
