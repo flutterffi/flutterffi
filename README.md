@@ -54,10 +54,6 @@
 
   <br/>
 
-  <!-- 连击统计 (Streak Stats) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flutterffi&theme=tokyonight&hide_border=true&background=0D1117&fire=FF0055&ring=00F2FF&currStreakLabel=00F2FF" />
-
-  <br/><br/>
 
   <!-- 贪吃蛇动画 (可选，非常极客) -->
   <!-- 注意：这部分需要配置 GitHub Actions 才会动，如果你还没有配置 Action，可以先保留图片占位符或删除此段 -->
