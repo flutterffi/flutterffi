@@ -54,29 +54,6 @@
 
   <br/>
 
-  <!-- 数据统计面板 (GitHub Stats) -->
-  <!-- 使用 Tokyonight 或 Synthwave 主题以配合科技感 -->
-  <h3>📊 <span style="color: #d6409f">DATA</span>_ANALYSIS</h3>
-  
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/flutterffi">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=flutterffi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&icon_color=d6409f" />
-          </a>
-        </td>
-        <td align="center">
-          <a href="https://github.com/flutterffi">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flutterffi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2ff&text_color=bfbfbf" />
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-  <br/>
-
   <!-- 连击统计 (Streak Stats) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=flutterffi&theme=tokyonight&hide_border=true&background=0D1117&fire=FF0055&ring=00F2FF&currStreakLabel=00F2FF" />
 
