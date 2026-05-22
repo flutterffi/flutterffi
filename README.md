@@ -1,86 +1,112 @@
-<!-- 
-  ======================================================
-  SYSTEM STATUS: ONLINE
-  PROTOCOL: GITHUB_PROFILE_INIT
-  USER: flutterffi
-  THEME: CYBERPUNK / HIGH-TECH
-  ======================================================
--->
-
 <div align="center">
-  
-  <!-- 顶部动态 Banner (科技感波浪背景) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=330&section=header&text=Flutter%20FFI&fontSize=120&fontColor=00f2ff&fontAlign=50&animation=fadeIn&desc=Bridging%20Dart%20to%20Native%20Realms&descAlign=50&descSize=30" width="100%" />
-
-  <!-- 动态打字效果 (Typing SVG) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=System+Initialized...;Loading+Flutter+Modules...;Compiling+Rust%2FC%2B%2B+Bindings...;Executing+Foreign+Function+Interface...;Status:+Ready+to+Code." alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <!-- 个人简介区 -->
-  <p align="center">
-    <samp>
-      > Initiating handshake sequence...<br>
-      > <span style="color: #00f2ff;">User detected:</span> <b>Full Stack Mobile Engineer</b><br>
-      > <span style="color: #00f2ff;">Specialty:</span> <b>High-Performance Native Interop</b>
-    </samp>
-  </p>
-
-  <br/>
-
-  <!-- 科技感徽章墙 (Tech Stack) -->
-  <h3>🧬 <span style="color: #d6409f">NEURAL</span>_NETWORKS & <span style="color: #00f2ff">TOOLS</span></h3>
-
-  <!-- 使用 For-The-Badge 风格，看起来更硬核 -->
-  <p>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  </p>
-    <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  </p>
-
-  <br/>
-
-
-  <!-- 贪吃蛇动画 (可选，非常极客) -->
-  <!-- 注意：这部分需要配置 GitHub Actions 才会动，如果你还没有配置 Action，可以先保留图片占位符或删除此段 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg">
-  </picture>
-
-  <br/><br/>
-
-  <!-- 底部链接 -->
-  <h3>📡 <span style="color: #d6409f">CONNECT</span>_UPLINK</h3>
-  <p>
-    <a href="https://github.com/flutterffi" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="mailto:flutter.ffi@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/flutterffi" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-  </p>
-  
-  <br/>
-  
-  <samp>End of Line_</samp>
-
+  <img src="https://i.imgur.com/dZ9F7vn.png" alt="Banner" width="100%"/>
+  <h1>🌟 Welcome to My GitHub Profile 🌟</h1>
+  <p>Crafting impactful solutions at the intersection of <strong>Flutter</strong>, <strong>iOS</strong>, and <strong>modern frontend technologies</strong>.</p>
 </div>
+
+---
+
+## 👋 About Me
+
+I am a **Full-Stack Mobile Developer** specializing in **Flutter** and **iOS ecosystem development**, with additional expertise in **Vue 3** for versatile frontend interfaces. My mission is to build performant, visually stunning, and scalable applications—from mobile apps to hybrid frameworks.
+
+---
+
+## 🌟 Core Specializations
+
+### 📱 **Flutter & iOS Development**
+- Expertise in **Flutter** for seamless cross-platform mobile app development.
+- Deep knowledge of **iOS (Swift, SwiftUI, Objective-C)** for native applications, including:
+  - High-performance animations.
+  - Custom plug-ins and module integration.
+- Strong understanding of **UIKit**, **Core Data**, and **Core Animation**.
+
+### 🌐 **Modern Frontend with Vue.js**
+- Proficient in **Vue 3**, **Composition API**, and ecosystem tools like:
+  - **Vuex** (state management).
+  - **Vue Router** (dynamic routing).
+  - Component reuse and modular architecture.
+- Fluent in building **progressive web apps (PWAs)** and integrating RESTful APIs.
+
+### 🛠️ **Tech-Driven Problem Solving**
+- **Mobile UI/UX engineering**: Creating delightful experiences for end users.
+- End-to-end **app lifecycle management**: From architecture to deployment.
+- Performance profiling and debugging for **native and cross-platform apps**.
+
+---
+
+## 🛠️ Technical Skills
+
+### **Languages & Frameworks**
+- **Primary**:
+  - Flutter, Dart
+  - Swift, SwiftUI, Objective-C
+  - Vue 3, JavaScript (ES6+), TypeScript
+- **Secondary**:
+  - Python, Golang, Shell scripting
+
+### **Tools & Platforms**
+- Xcode, Android Studio, VS Code
+- Firebase, Realm, SQLite
+- Git, GitHub Actions, Fastlane
+
+### **Design & Architecture**
+- State management libraries: **Provider**, **Riverpod**
+- Backend integration using **GraphQL** and **REST APIs**
+- Responsive design with **Material Design** and **Cupertino**
+
+---
+
+## 💼 Project Highlights
+
+### [🔗 Project 1: Flutter-based e-Commerce App](https://github.com/your-profile-link)
+- Built a comprehensive e-commerce solution with Flutter.
+- Implemented:
+  - High-performance cart functionality using **Provider**.
+  - Secure login with Firebase Authentication.
+- Optimized API calls with advanced caching techniques (HTTP interceptors).
+
+### [🔗 Project 2: iOS Medical Companion App (Native Swift)](https://github.com/your-profile-link)
+- Created a **Swift**-powered app with custom iOS UI animations.
+- Integrated **Core Data** for offline-first management.
+- Utilized **Notification Framework** for critical health alerts.
+
+### [🔗 Project 3: Admin Dashboard with Vue 3](https://github.com/your-profile-link)
+- Designed and deployed an interactive admin UI using **Vue 3** + **Composition API**.
+- Achieved:
+  - Modular code organization for reusable components.
+  - Real-time charts using **Chart.js** for analytics visualizations.
+
+---
+
+## 📊 My Development Philosophy
+
+- **User-Centric Development**:
+  Building performant, intuitive, and visually appealing apps that users love.
+- **Code Scalability**:
+  Modular and testable code for long-term maintainability.
+- **Continuous Learning**:
+  Staying ahead with technologies like **Swift Concurrency** and **Flutter Impeller**.
+
+---
+
+## 🏆 Achievements & Contributions
+
+- **Open Source**:
+  Actively contributed to [Flutter plugins](https://github.com/flutter/plugins).
+- Published articles on **iOS native integrations in Flutter** on Medium.
+- Developed an efficient cross-platform **Bluetooth IoT solution** for smart devices.
+
+---
+
+## 🌐 Let's Connect!
+
+- **GitHub**: [@flutterffi](https://github.com/flutterffi)  
+- **Email**: [flutterffi@gmail.com](mailto:flutterffi@gmail.com)  
+- **Twitter**: [@flutterffi](https://twitter.com/flutterffi)  
+
+---
+
+## 📝 License
+
+This repository is available under the [MIT License](LICENSE).
