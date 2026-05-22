@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/flutterffi/flutterffi/raw/main/assets/code-banner.png" alt="Code Snippet Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/flutterffi/flutterffi/main/assets/code-banner.svg" alt="Code Banner" width="100%"/>
   <h1>🌟 Welcome to My GitHub Profile 🌟</h1>
   <p>Crafting impactful solutions at the intersection of <strong>Flutter</strong>, <strong>iOS</strong>, and <strong>modern frontend technologies</strong>.</p>
 </div>
