@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://carbon.now.sh/?bg=rgba(171,184,195,1)&t=night-owl&l=dart&ds=true&wc=true&wa=true&pv=48px&ph=32px&ln=false&fl=1&fm=Hack&fs=14px&lh=133%25&si=false&es=2x&wm=false&code=void%2520main()%2520%257B%250A%2520%2520runApp(MaterialApp(%250A%2520%2520%2520%2520home%253A%2520Scaffold(%250A%2520%2520%2520%2520%2520%2520appBar%253A%2520AppBar(%250A%2520%2520%2520%2520%2520%2520%2520%2520title%253A%2520Text('FlutterFFI'),%250A%2520%2520%2520%2520%2520%2520),%250A%2520%2520%2520%2520%2520%2520body%253A%2520Center(%250A%2520%2520%2520%2520%2520%2520%2520%2520child%253A%2520Text(%2527Building%2520beautiful%2520UIs%2520with%2520Flutter!%2527),%250A%2520%2520%2520%2520%2520%2520),%250A%2520%2520%2520%2520),%250A%2520%2520));%250A%257D" alt="Code Snippet Banner" width="100%"/>
+  <img src="https://github.com/flutterffi/flutterffi/raw/main/assets/code-banner.png" alt="Code Snippet Banner" width="100%"/>
   <h1>🌟 Welcome to My GitHub Profile 🌟</h1>
   <p>Crafting impactful solutions at the intersection of <strong>Flutter</strong>, <strong>iOS</strong>, and <strong>modern frontend technologies</strong>.</p>
 </div>
