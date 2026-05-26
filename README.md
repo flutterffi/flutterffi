@@ -102,7 +102,7 @@ I am a **Full-Stack Mobile Developer** specializing in **Flutter** and **iOS eco
 ## 🌐 Let's Connect!
 
 - **GitHub**: [@flutterffi](https://github.com/flutterffi)  
-- **Email**: [flutterffi@gmail.com](mailto:flutterffi@gmail.com)  
+- **Email**: [flutterffi@gmail.com](mailto:flutterffi@gmail.com)  / [platojobs@gmail.com](mailto:platojobs@gmail.com)
 - **Twitter**: [@flutterffi](https://twitter.com/flutterffi)  
 
 ---
