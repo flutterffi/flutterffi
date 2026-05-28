@@ -8,7 +8,7 @@
       <h1>flutterffi</h1>
       <h3>Code archive and engineering workspace for <a href="https://github.com/platojobs">@platojobs</a></h3>
       <p>
-        This account is used to publish focused repositories, platform experiments, and implementation references around Flutter, FFI, native iOS/Android integration, and frontend tooling.
+        This account is used to publish focused repositories, platform experiments, and implementation references for apps, developer tooling, native integration, and frontend systems.
       </p>
     </td>
     <td width="36%" valign="middle" align="right">
