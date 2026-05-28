@@ -2,17 +2,35 @@
   <img src="./assets/code-banner.svg" alt="flutterffi code workspace banner" width="100%" />
 </p>
 
-<div align="center">
-  <h1>flutterffi</h1>
-  <p><strong>Flutter, iOS, native integration, and modern frontend development.</strong></p>
-  <p>
-    <a href="https://github.com/flutterffi">GitHub</a>
-    ·
-    <a href="mailto:your-email@example.com">Email</a>
-  </p>
-</div>
+<table width="100%">
+  <tr>
+    <td width="64%" valign="middle">
+      <h1>flutterffi</h1>
+      <h3>Code archive and engineering workspace for <a href="https://github.com/platojobs">@platojobs</a></h3>
+      <p>
+        This account is used to publish focused repositories, platform experiments, and implementation references around Flutter, FFI, native iOS/Android integration, and frontend tooling.
+      </p>
+    </td>
+    <td width="36%" valign="middle" align="right">
+      <p>
+        <a href="https://github.com/platojobs"><strong>Main account</strong></a><br />
+        <a href="https://github.com/flutterffi">Repository archive</a><br />
+        <a href="https://github.com/flutterffi?tab=repositories">Browse repositories</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+
+## Repository Snapshot
 
 <table width="100%">
   <tr>
@@ -34,9 +52,9 @@
   </tr>
 </table>
 
-I build cross-platform apps and developer tools across Flutter, iOS, Android, and web stacks, with a focus on native integration, clean architecture, and practical UI engineering.
+This profile is intentionally repository-first. For identity, long-form work, and broader activity, start from <a href="https://github.com/platojobs">@platojobs</a>; use this account as the source archive for platform-specific code and experiments.
 
-## 🛠️ Workspace
+## Workspace
 
 <table width="100%">
   <tr>
@@ -64,7 +82,7 @@ I build cross-platform apps and developer tools across Flutter, iOS, Android, an
   </tr>
 </table>
 
-## 💡 Current Focus
+## Current Focus
 
 <table width="100%">
   <tr>
