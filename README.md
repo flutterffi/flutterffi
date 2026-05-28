@@ -60,7 +60,7 @@ This profile is intentionally repository-first. For identity, long-form work, an
       <img src="./assets/column-spacer.svg" alt="" width="100%" height="1" />
       <h2>Workspace</h2>
       <ul>
-        <li><strong>Mobile:</strong> Flutter, Dart, Swift, Objective-C, Kotlin, FFI</li>
+        <li><strong>Mobile:</strong> Flutter, Dart, Swift, Objective-C, Kotlin</li>
         <li><strong>Frontend:</strong> Vue 3, TypeScript, HTML, CSS</li>
         <li><strong>Backend:</strong> Python, Go, GraphQL, REST APIs</li>
         <li><strong>Architecture:</strong> Bloc, Riverpod, Clean Architecture, Microservices</li>
