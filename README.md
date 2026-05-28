@@ -42,13 +42,13 @@ Full-stack developer passionate about **cross-platform development**, **native i
 
 ## 📊 GitHub Stats
 
+### Activity Overview
+
+![flutterffi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=flutterffi&show_icons=true&theme=transparent)
+
 ### Most Used Languages
 
 [![flutterffi's Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flutterffi&langs_count=10&layout=compact)](https://github.com/flutterffi)
-
-### Activity Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flutterffi&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
