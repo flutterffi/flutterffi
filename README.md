@@ -1,9 +1,22 @@
 <div align="center">
   <h1>🌟 Welcome to My GitHub Profile 🌟</h1>
   <p><strong>Crafting impactful solutions at the intersection of Flutter, iOS, and modern frontend technologies.</strong></p>
-  
-  ![GitHub Followers](https://img.shields.io/github/followers/flutterffi?style=social)
-  ![GitHub Stars](https://img.shields.io/github/stars/flutterffi?style=social)
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![flutterffi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=flutterffi&show_icons=true&theme=transparent)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=flutterffi&theme=transparent)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=flutterffi&theme=github-dark&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![flutterffi's Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flutterffi&langs_count=10&layout=compact)](https://github.com/flutterffi)
+
 </div>
 
 ---
@@ -16,53 +29,25 @@ Full-stack developer passionate about **cross-platform development**, **native i
 
 ## 🛠️ Tech Stack & Languages
 
-### 📱 Mobile Development
-- **Flutter & Dart** - Cross-platform mobile development
-- **Swift & Objective-C** - Native iOS development
-- **Kotlin** - Native Android development
-- **FFI (Foreign Function Interface)** - Native integration
-
-### 🖥️ Backend & Services
-- **Python** - Data processing, automation, backend services
-- **Go/Golang** - High-performance services, microservices
-- **GraphQL & REST APIs** - API design and implementation
-
-### 🌐 Frontend
-- **Vue 3** - Modern reactive UI framework
-- **TypeScript** - Type-safe JavaScript development
-- **HTML/CSS** - Web standards
-
-### ⚙️ Architecture & Patterns
-- **Bloc Pattern** - State management
-- **Riverpod** - Advanced state management
-- **Clean Architecture** - Scalable project structure
-- **Microservices** - Distributed systems
-
----
-
-## 📊 GitHub Stats
-
-### Activity Overview
-
-![flutterffi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=flutterffi&show_icons=true&theme=transparent)
-
-### Most Used Languages
-
-[![flutterffi's Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flutterffi&langs_count=10&layout=compact)](https://github.com/flutterffi)
+| Category | Technologies |
+|----------|---------------|
+| **📱 Mobile** | Flutter • Dart • Swift • Objective-C • Kotlin • FFI |
+| **🖥️ Backend** | Python • Go/Golang • GraphQL • REST APIs |
+| **🌐 Frontend** | Vue 3 • TypeScript • HTML/CSS |
+| **⚙️ Architecture** | Bloc • Riverpod • Clean Architecture • Microservices |
 
 ---
 
 ## 🚀 Featured Projects
 
-### Core Libraries & Packages
-- **[flutter_ffi_svg](https://github.com/flutterffi/flutter_ffi_svg)** - Pure Dart SVG rendering engine for Flutter
-- **[ffi_bloc_app](https://github.com/flutterffi/ffi_bloc_app)** - Bloc architecture implementation
-- **[ffi_riverpod_app](https://github.com/flutterffi/ffi_riverpod_app)** - Riverpod state management
-
-### Full-Stack Solutions
-- **[nrf_mesh_flutter](https://github.com/flutterffi/nrf_mesh_flutter)** - Bluetooth Mesh networking plugin
-- **[flutter.ffi](https://github.com/flutterffi/flutter.ffi)** - Personal blog & knowledge base
-- **[flutterffi.github.io](https://github.com/flutterffi/flutterffi.github.io)** - Portfolio & blog
+| Project | Language | Description |
+|---------|----------|-------------|
+| [flutter_ffi_svg](https://github.com/flutterffi/flutter_ffi_svg) | Dart | Pure Dart SVG rendering engine for Flutter |
+| [ffi_bloc_app](https://github.com/flutterffi/ffi_bloc_app) | Dart | Bloc architecture implementation |
+| [ffi_riverpod_app](https://github.com/flutterffi/ffi_riverpod_app) | C++ | Riverpod state management |
+| [nrf_mesh_flutter](https://github.com/flutterffi/nrf_mesh_flutter) | Swift | Bluetooth Mesh networking plugin |
+| [flutter.ffi](https://github.com/flutterffi/flutter.ffi) | Python | Personal blog & knowledge base |
+| [flutterffi.github.io](https://github.com/flutterffi/flutterffi.github.io) | HTML | Portfolio & blog |
 
 ---
 
@@ -80,29 +65,8 @@ Full-stack developer passionate about **cross-platform development**, **native i
 
 ## 🌐 Connect With Me
 
-| Platform | Link |
-|----------|------|
-| **GitHub** | [@flutterffi](https://github.com/flutterffi) |
-| **Email** | [Contact Me](mailto:your-email@example.com) |
-
----
-
-## 📈 Contributions & Activity
-
-I'm actively contributing to:
-- Open-source Flutter packages
-- Cross-platform development tools
-- Modern frontend frameworks
-- Backend optimization
-
----
-
-## 📝 License
-
-My projects are available under various licenses:
-- MIT License (most projects)
-- Apache 2.0 License
-- AGPL-3.0 License
+- **GitHub**: [@flutterffi](https://github.com/flutterffi)
+- **Email**: [Contact Me](mailto:your-email@example.com)
 
 ---
 
