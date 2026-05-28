@@ -22,7 +22,7 @@ This is the code repository maintained by **PlatoJobs**, containing projects and
 
 ## 🌐 Connect with the Author
 
-- **GitHub**: [@flutterffi](https://github.com/flutterffi)  
+- **GitHub**: [@platojobs](https://github.com/platojobs)  
 - **Email**: [platojobs@gmail.com](mailto:platojobs@gmail.com)
 
 ---
