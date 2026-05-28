@@ -3,76 +3,113 @@
 </p>
 
 <div align="center">
-  <h1>🌟 Welcome to My GitHub Profile 🌟</h1>
-  <p><strong>Crafting impactful solutions at the intersection of Flutter, iOS, and modern frontend technologies.</strong></p>
+  <h1>flutterffi</h1>
+  <p><strong>Flutter, iOS, native integration, and modern frontend development.</strong></p>
+  <p>
+    <a href="https://github.com/flutterffi">GitHub</a>
+    ·
+    <a href="mailto:your-email@example.com">Email</a>
+  </p>
 </div>
-
----
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=flutterffi&show_icons=true&theme=transparent&hide_border=true&width=500" alt="flutterffi GitHub stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=flutterffi&theme=transparent&hide_border=true&width=500" alt="GitHub streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/flutterffi">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flutterffi&langs_count=10&theme=transparent&hide_border=true&card_width=900&exclude_repo=flutterffi.github.io,flutterffi" alt="flutterffi top languages" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-![flutterffi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=flutterffi&show_icons=true&theme=transparent&hide_border=true&width=500)
+I build cross-platform apps and developer tools across Flutter, iOS, Android, and web stacks, with a focus on native integration, clean architecture, and practical UI engineering.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=flutterffi&theme=transparent&hide_border=true&width=500)](https://git.io/streak-stats)
+## 🛠️ Workspace
 
-[![flutterffi's Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flutterffi&langs_count=10&theme=transparent&hide_border=true&card_width=500&exclude_repo=flutterffi.github.io,flutterffi)](https://github.com/flutterffi)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Tech Stack & Languages</h3>
+      <table width="100%">
+        <tr>
+          <td width="30%"><strong>Mobile</strong></td>
+          <td width="70%">Flutter · Dart · Swift · Objective-C · Kotlin · FFI</td>
+        </tr>
+        <tr>
+          <td width="30%"><strong>Frontend</strong></td>
+          <td width="70%">Vue 3 · TypeScript · HTML · CSS</td>
+        </tr>
+        <tr>
+          <td width="30%"><strong>Backend</strong></td>
+          <td width="70%">Python · Go · GraphQL · REST APIs</td>
+        </tr>
+        <tr>
+          <td width="30%"><strong>Architecture</strong></td>
+          <td width="70%">Bloc · Riverpod · Clean Architecture · Microservices</td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Featured Projects</h3>
+      <table width="100%">
+        <tr>
+          <td width="42%"><a href="https://github.com/flutterffi/flutter_ffi_svg"><strong>flutter_ffi_svg</strong></a></td>
+          <td width="18%">Dart</td>
+          <td width="40%">SVG renderer for Flutter</td>
+        </tr>
+        <tr>
+          <td width="42%"><a href="https://github.com/flutterffi/ffi_bloc_app"><strong>ffi_bloc_app</strong></a></td>
+          <td width="18%">Dart</td>
+          <td width="40%">Bloc architecture app</td>
+        </tr>
+        <tr>
+          <td width="42%"><a href="https://github.com/flutterffi/ffi_riverpod_app"><strong>ffi_riverpod_app</strong></a></td>
+          <td width="18%">C++</td>
+          <td width="40%">Riverpod state patterns</td>
+        </tr>
+        <tr>
+          <td width="42%"><a href="https://github.com/flutterffi/nrf_mesh_flutter"><strong>nrf_mesh_flutter</strong></a></td>
+          <td width="18%">Swift</td>
+          <td width="40%">Bluetooth Mesh plugin</td>
+        </tr>
+        <tr>
+          <td width="42%"><a href="https://github.com/flutterffi/flutter.ffi"><strong>flutter.ffi</strong></a></td>
+          <td width="18%">Python</td>
+          <td width="40%">Blog and knowledge base</td>
+        </tr>
+        <tr>
+          <td width="42%"><a href="https://github.com/flutterffi/flutterffi.github.io"><strong>flutterffi.github.io</strong></a></td>
+          <td width="18%">HTML</td>
+          <td width="40%">Portfolio and blog</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-</div>
+## 💡 Current Focus
 
----
-
-## 👋 About Me
-
-Full-stack developer passionate about **cross-platform development**, **native integration**, and **modern web technologies**. I focus on building scalable, performant solutions across multiple platforms.
-
----
-
-## 🛠️ Tech Stack & Languages
-
-| Category | Technologies |
-|----------|---------------|
-| **📱 Mobile** | Flutter • Dart • Swift • Objective-C • Kotlin • FFI |
-| **🖥️ Backend** | Python • Go/Golang • GraphQL • REST APIs |
-| **🌐 Frontend** | Vue 3 • TypeScript • HTML/CSS |
-| **⚙️ Architecture** | Bloc • Riverpod • Clean Architecture • Microservices |
-
----
-
-## 🚀 Featured Projects
-
-| Project | Language | Description |
-|---------|----------|-------------|
-| [flutter_ffi_svg](https://github.com/flutterffi/flutter_ffi_svg) | Dart | Pure Dart SVG rendering engine for Flutter |
-| [ffi_bloc_app](https://github.com/flutterffi/ffi_bloc_app) | Dart | Bloc architecture implementation |
-| [ffi_riverpod_app](https://github.com/flutterffi/ffi_riverpod_app) | C++ | Riverpod state management |
-| [nrf_mesh_flutter](https://github.com/flutterffi/nrf_mesh_flutter) | Swift | Bluetooth Mesh networking plugin |
-| [flutter.ffi](https://github.com/flutterffi/flutter.ffi) | Python | Personal blog & knowledge base |
-| [flutterffi.github.io](https://github.com/flutterffi/flutterffi.github.io) | HTML | Portfolio & blog |
-
----
-
-## 💡 Current Focus Areas
-
-- ✨ Advanced Flutter patterns and best practices
-- 🔌 Native platform integration (iOS/Android)
-- 🌐 Full-stack web development with Vue 3
-- 🚀 Go microservices & backend services
-- 🐍 Python automation and data processing
-- 📱 Swift & Kotlin native development
-- 🎨 Cross-platform UI/UX design
-
----
-
-## 🌐 Connect With Me
-
-- **GitHub**: [@flutterffi](https://github.com/flutterffi)
-- **Email**: [Contact Me](mailto:your-email@example.com)
-
----
-
-<div align="center">
-  <p><i>Always learning, always building, always improving.</i></p>
-  <p>⭐ If you find my work useful, feel free to star my repositories!</p>
-</div>
+<table width="100%">
+  <tr>
+    <td width="33%">Advanced Flutter patterns</td>
+    <td width="33%">Native iOS and Android integration</td>
+    <td width="34%">Vue 3 and TypeScript frontend</td>
+  </tr>
+  <tr>
+    <td width="33%">Go microservices</td>
+    <td width="33%">Python automation</td>
+    <td width="34%">Cross-platform UI systems</td>
+  </tr>
+</table>
