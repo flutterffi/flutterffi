@@ -23,8 +23,8 @@
 
   <!-- Title -->
   <g transform="translate(40,32)">
-    <text x="0" y="0" font-family="Inter, 'Segoe UI', Roboto, Arial, sans-serif" font-size="28" fill="#ffffff" font-weight="700">FlutterFFI — Flutter · iOS · Vue 3</text>
-    <text x="0" y="36" font-family="Inter, 'Segoe UI', Roboto, Arial, sans-serif" font-size="14" fill="#9aa6b2">Modern cross-platform apps • native integrations • high-performance UIs</text>
+    <text x="0" y="0" font-family="Inter, 'Segoe UI', Roboto, Arial, sans-serif" font-size="28" fill="#ffffff" font-weight="700">flutterffi — code workspace for platojobs</text>
+    <text x="0" y="36" font-family="Inter, 'Segoe UI', Roboto, Arial, sans-serif" font-size="14" fill="#9aa6b2">Flutter FFI • native interop • plugins • bindings • examples</text>
   </g>
 
   <!-- code area background -->
@@ -68,7 +68,7 @@
 
       <text x="48" y="88" fill="#9ae6b4">title:</text>
       <tspan x="100" y="88" fill="#fca5a5">Text</tspan>
-      <text x="140" y="88" fill="#cbd5e1">('FlutterFFI'),</text>
+      <text x="140" y="88" fill="#cbd5e1">('flutterffi'),</text>
 
       <text x="36" y="110" fill="#cbd5e1">),</text>
 
@@ -78,7 +78,7 @@
 
       <text x="48" y="154" fill="#9ae6b4">child:</text>
       <tspan x="104" y="154" fill="#fce38a">Text</tspan>
-      <text x="136" y="154" fill="#cbd5e1">('Building beautiful UIs with Flutter!'),</text>
+      <text x="136" y="154" fill="#cbd5e1">('code workspace for platojobs'),</text>
 
       <text x="24" y="176" fill="#cbd5e1">),</text>
       <text x="12" y="198" fill="#cbd5e1">),</text>
@@ -90,7 +90,7 @@
     <!-- colorful accent top-right -->
     <g transform="translate(960,12)">
       <rect x="0" y="0" width="120" height="40" rx="8" fill="url(#accent)" opacity="0.18"/>
-      <text x="12" y="24" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#e6f7ff">Flutter · iOS</text>
+      <text x="12" y="24" font-family="Inter, system-ui, sans-serif" font-size="13" fill="#e6f7ff">platojobs code</text>
     </g>
   </g>
 

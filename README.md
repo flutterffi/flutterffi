@@ -1,26 +1,31 @@
-# flutterffi workspace
+<p align="center">
+  <img src="./assets/code-banner.svg" alt="flutterffi code workspace banner" width="100%" />
+</p>
 
-`flutterffi` is a code repository account and workspace used by [@platojobs](https://github.com/platojobs) to manage Flutter FFI related projects.
+# Hi, I'm flutterffi
 
-This account is not maintained as a separate personal identity. For the primary GitHub profile, broader project activity, and contact context, refer to [@platojobs](https://github.com/platojobs).
+I build cross-platform applications, native integrations, backend services, and automation tools.
 
-## Purpose
+## 🛠️ What I Work On
 
-- Host and organize Flutter FFI related repositories
-- Keep native interop experiments, examples, and reusable code in one place
-- Separate Flutter FFI code assets from the main `platojobs` personal account
-- Maintain public repositories that belong to the `platojobs` development workspace
+- Flutter patterns and best practices
+- 🔌 Native platform integration (iOS/Android)
+- 🌐 Full-stack web development with Vue 3
+- 🚀 Go microservices & backend services
+- 🐍 Python automation and data processing
+- 📱 Swift & Kotlin native development
+- 🎨 Cross-platform UI/UX design
 
-## Repository Scope
+---
 
-Repositories under this account may include:
+## 🌐 Connect With Me
 
-- Flutter plugins that use FFI
-- Dart bindings for native libraries
-- Native C, C++, Rust, Swift, Kotlin, or platform-specific integration code
-- Example apps, test projects, and reproducible demos
-- Build scripts, tooling, and documentation for Flutter FFI workflows
+- **GitHub**: [@flutterffi](https://github.com/flutterffi)
+- **Email**: [Contact Me](mailto:your-email@example.com)
 
-## Notes
+---
 
-Most repositories here are maintained as code artifacts rather than as a separate public identity. Issues, discussions, and collaboration context may point back to [@platojobs](https://github.com/platojobs) when relevant.
+<div align="center">
+  <p><i>Always learning, always building, always improving.</i></p>
+  <p>⭐ If you find my work useful, feel free to star my repositories!</p>
+</div>
