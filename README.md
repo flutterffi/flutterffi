@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/code-banner.svg" alt="flutterffi code workspace banner" width="100%" />
-</p>
-
 <table width="100%">
   <tr>
     <td width="64%" valign="middle">
