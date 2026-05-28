@@ -17,7 +17,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=flutterffi&theme=transparent&hide_border=true&width=500)](https://git.io/streak-stats)
 
-[![flutterffi's Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flutterffi&langs_count=8&theme=transparent&hide_border=true&card_width=500)](https://github.com/flutterffi)
+[![flutterffi's Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flutterffi&langs_count=10&theme=transparent&hide_border=true&card_width=500&exclude_repo=flutterffi.github.io,flutterffi)](https://github.com/flutterffi)
 
 </div>
 
