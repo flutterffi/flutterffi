@@ -40,59 +40,24 @@ I build cross-platform apps and developer tools across Flutter, iOS, Android, an
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>Tech Stack & Languages</h3>
       <table width="100%">
         <tr>
-          <td width="30%"><strong>Mobile</strong></td>
-          <td width="70%">Flutter · Dart · Swift · Objective-C · Kotlin · FFI</td>
+          <td width="25%"><strong>Mobile</strong></td>
+          <td width="75%">Flutter · Dart · Swift · Objective-C · Kotlin · FFI</td>
         </tr>
         <tr>
-          <td width="30%"><strong>Frontend</strong></td>
-          <td width="70%">Vue 3 · TypeScript · HTML · CSS</td>
+          <td width="25%"><strong>Frontend</strong></td>
+          <td width="75%">Vue 3 · TypeScript · HTML · CSS</td>
         </tr>
         <tr>
-          <td width="30%"><strong>Backend</strong></td>
-          <td width="70%">Python · Go · GraphQL · REST APIs</td>
+          <td width="25%"><strong>Backend</strong></td>
+          <td width="75%">Python · Go · GraphQL · REST APIs</td>
         </tr>
         <tr>
-          <td width="30%"><strong>Architecture</strong></td>
-          <td width="70%">Bloc · Riverpod · Clean Architecture · Microservices</td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Featured Projects</h3>
-      <table width="100%">
-        <tr>
-          <td width="42%"><a href="https://github.com/flutterffi/flutter_ffi_svg"><strong>flutter_ffi_svg</strong></a></td>
-          <td width="18%">Dart</td>
-          <td width="40%">SVG renderer for Flutter</td>
-        </tr>
-        <tr>
-          <td width="42%"><a href="https://github.com/flutterffi/ffi_bloc_app"><strong>ffi_bloc_app</strong></a></td>
-          <td width="18%">Dart</td>
-          <td width="40%">Bloc architecture app</td>
-        </tr>
-        <tr>
-          <td width="42%"><a href="https://github.com/flutterffi/ffi_riverpod_app"><strong>ffi_riverpod_app</strong></a></td>
-          <td width="18%">C++</td>
-          <td width="40%">Riverpod state patterns</td>
-        </tr>
-        <tr>
-          <td width="42%"><a href="https://github.com/flutterffi/nrf_mesh_flutter"><strong>nrf_mesh_flutter</strong></a></td>
-          <td width="18%">Swift</td>
-          <td width="40%">Bluetooth Mesh plugin</td>
-        </tr>
-        <tr>
-          <td width="42%"><a href="https://github.com/flutterffi/flutter.ffi"><strong>flutter.ffi</strong></a></td>
-          <td width="18%">Python</td>
-          <td width="40%">Blog and knowledge base</td>
-        </tr>
-        <tr>
-          <td width="42%"><a href="https://github.com/flutterffi/flutterffi.github.io"><strong>flutterffi.github.io</strong></a></td>
-          <td width="18%">HTML</td>
-          <td width="40%">Portfolio and blog</td>
+          <td width="25%"><strong>Architecture</strong></td>
+          <td width="75%">Bloc · Riverpod · Clean Architecture · Microservices</td>
         </tr>
       </table>
     </td>
