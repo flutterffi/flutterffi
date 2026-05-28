@@ -56,43 +56,16 @@ This profile is intentionally repository-first. For identity, long-form work, an
 
 ## Workspace
 
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <h3>Tech Stack & Languages</h3>
-      <table width="100%">
-        <tr>
-          <td width="25%"><strong>Mobile</strong></td>
-          <td width="75%">Flutter · Dart · Swift · Objective-C · Kotlin · FFI</td>
-        </tr>
-        <tr>
-          <td width="25%"><strong>Frontend</strong></td>
-          <td width="75%">Vue 3 · TypeScript · HTML · CSS</td>
-        </tr>
-        <tr>
-          <td width="25%"><strong>Backend</strong></td>
-          <td width="75%">Python · Go · GraphQL · REST APIs</td>
-        </tr>
-        <tr>
-          <td width="25%"><strong>Architecture</strong></td>
-          <td width="75%">Bloc · Riverpod · Clean Architecture · Microservices</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+- **Mobile:** Flutter, Dart, Swift, Objective-C, Kotlin, FFI
+- **Frontend:** Vue 3, TypeScript, HTML, CSS
+- **Backend:** Python, Go, GraphQL, REST APIs
+- **Architecture:** Bloc, Riverpod, Clean Architecture, Microservices
 
 ## Current Focus
 
-<table width="100%">
-  <tr>
-    <td width="33%">Advanced Flutter patterns</td>
-    <td width="33%">Native iOS and Android integration</td>
-    <td width="34%">Vue 3 and TypeScript frontend</td>
-  </tr>
-  <tr>
-    <td width="33%">Go microservices</td>
-    <td width="33%">Python automation</td>
-    <td width="34%">Cross-platform UI systems</td>
-  </tr>
-</table>
+- Advanced Flutter architecture patterns
+- Native iOS and Android integration
+- Vue 3 and TypeScript frontend systems
+- Go microservices and API design
+- Python automation workflows
+- Cross-platform UI engineering
