@@ -7,14 +7,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img alt="flutterffi's GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=flutterffi&show_icons=true&theme=transparent&hide_border=true" width="48%"/>
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=flutterffi&theme=transparent&hide_border=true" width="48%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flutterffi&langs_count=8&layout=compact&theme=transparent&hide_border=true" width="48%"/>
-</p>
+![flutterffi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=flutterffi&show_icons=true&theme=transparent&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=flutterffi&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+[![flutterffi's Top-langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flutterffi&langs_count=8&layout=compact&theme=transparent&hide_border=true)](https://github.com/flutterffi)
+
+</div>
 
 ---
 
