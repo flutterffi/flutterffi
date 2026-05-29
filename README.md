@@ -9,7 +9,7 @@
     </td>
     <td width="36%" valign="middle" align="center">
       <a href="https://github.com/platojobs">
-        <img src="./assets/platojobs-mark.svg" alt="platojobs" width="88" />
+        <img src="./assets/platojobs-avatar.png" alt="platojobs" width="96" />
       </a>
       <h3><a href="https://github.com/platojobs">@platojobs</a></h3>
       <p>
