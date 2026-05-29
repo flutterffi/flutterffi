@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td width="64%" valign="middle">
-      <img src="./assets/flutterffi-title.svg" alt="flutterffi" width="520" />
+      <img src="./assets/flutterffi-title.svg" alt="flutterffi" width="600" />
       <h3>Code archive and engineering workspace for <a href="https://github.com/platojobs">@platojobs</a></h3>
       <p>
         This account is used to publish focused repositories, platform experiments, and implementation references for apps, developer tooling, native integration, and frontend systems.
@@ -9,7 +9,7 @@
     </td>
     <td width="36%" valign="middle" align="center">
       <a href="https://github.com/platojobs">
-        <img src="./assets/platojobs-mark.svg" alt="platojobs" width="96" />
+        <img src="./assets/platojobs-mark.svg" alt="platojobs" width="88" />
       </a>
       <h3><a href="https://github.com/platojobs">@platojobs</a></h3>
       <p>
