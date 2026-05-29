@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="108" viewBox="0 0 720 108" role="img" aria-labelledby="title desc">
+  <title id="title">flutterffi</title>
+  <desc id="desc">Animated flutterffi account name with letters appearing one by one.</desc>
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      font-size: 72px;
+      font-weight: 800;
+      letter-spacing: 1px;
+      fill: #24292f;
+    }
+
+    .letter {
+      opacity: 0;
+      animation: show 3.2s steps(1, end) infinite;
+    }
+
+    .cursor {
+      animation: cursor 3.2s steps(1, end) infinite;
+      fill: #0969da;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      text {
+        fill: #f0f6fc;
+      }
+
+      .cursor {
+        fill: #58a6ff;
+      }
+    }
+
+    @keyframes show {
+      0%, 100% { opacity: 0; }
+      8%, 92% { opacity: 1; }
+    }
+
+    @keyframes cursor {
+      0%, 8%, 16%, 24%, 32%, 40%, 48%, 56%, 64%, 72%, 80%, 88% { opacity: 1; }
+      4%, 12%, 20%, 28%, 36%, 44%, 52%, 60%, 68%, 76%, 84%, 92%, 100% { opacity: 0; }
+    }
+  </style>
+  <text x="0" y="76">
+    <tspan class="letter" style="animation-delay: 0s">f</tspan>
+    <tspan class="letter" style="animation-delay: .12s">l</tspan>
+    <tspan class="letter" style="animation-delay: .24s">u</tspan>
+    <tspan class="letter" style="animation-delay: .36s">t</tspan>
+    <tspan class="letter" style="animation-delay: .48s">t</tspan>
+    <tspan class="letter" style="animation-delay: .60s">e</tspan>
+    <tspan class="letter" style="animation-delay: .72s">r</tspan>
+    <tspan class="letter" style="animation-delay: .84s">f</tspan>
+    <tspan class="letter" style="animation-delay: .96s">f</tspan>
+    <tspan class="letter" style="animation-delay: 1.08s">i</tspan>
+    <tspan class="cursor">_</tspan>
+  </text>
+</svg>
