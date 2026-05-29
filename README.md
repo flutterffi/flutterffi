@@ -9,9 +9,9 @@
     </td>
     <td width="36%" valign="middle" align="right">
       <p>
-        <a href="https://github.com/platojobs"><strong>Main account</strong></a><br />
-        <a href="https://github.com/flutterffi">Repository archive</a><br />
-        <a href="https://github.com/flutterffi?tab=repositories">Browse repositories</a>
+        <a href="https://github.com/platojobs"><strong>Main: @platojobs</strong></a><br />
+        <a href="https://github.com/flutterffi?tab=repositories">Repositories</a><br />
+        <a href="https://flutterffi.github.io/">Website</a>
       </p>
     </td>
   </tr>
@@ -28,25 +28,11 @@
 
 ## Repository Snapshot
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=flutterffi&show_icons=true&theme=transparent&hide_border=true&width=500" alt="flutterffi GitHub stats" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=flutterffi&theme=transparent&hide_border=true&width=500" alt="GitHub streak" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/flutterffi">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flutterffi&langs_count=10&theme=transparent&hide_border=true&card_width=900&exclude_repo=flutterffi.github.io,flutterffi" alt="flutterffi top languages" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/flutterffi">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flutterffi&langs_count=10&theme=transparent&hide_border=true&card_width=900&exclude_repo=flutterffi.github.io,flutterffi" alt="flutterffi top languages" width="100%" />
+  </a>
+</p>
 
 This profile is intentionally repository-first. For identity, long-form work, and broader activity, start from <a href="https://github.com/platojobs">@platojobs</a>; use this account as the source archive for platform-specific code and experiments.
 
