@@ -7,10 +7,19 @@
         This account is used to publish focused repositories, platform experiments, and implementation references for apps, developer tooling, native integration, and frontend systems.
       </p>
     </td>
-    <td width="36%" valign="middle" align="right">
+    <td width="36%" valign="middle" align="center">
+      <a href="https://github.com/platojobs">
+        <img src="./assets/platojobs-mark.svg" alt="platojobs" width="96" />
+      </a>
+      <h3><a href="https://github.com/platojobs">@platojobs</a></h3>
       <p>
-        <a href="https://github.com/platojobs"><strong>Main: @platojobs</strong></a><br />
-        <a href="https://github.com/flutterffi?tab=repositories">Repositories</a><br />
+        Primary account for product work, notes, and broader engineering activity.
+      </p>
+      <p>
+        <a href="https://github.com/platojobs"><strong>Main account</strong></a>
+        ·
+        <a href="https://github.com/flutterffi?tab=repositories">Repos</a>
+        ·
         <a href="https://flutterffi.github.io/">Website</a>
       </p>
     </td>

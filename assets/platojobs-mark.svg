@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="168" viewBox="0 0 168 168" role="img" aria-labelledby="title desc">
+  <title id="title">platojobs</title>
+  <desc id="desc">A compact platojobs brand mark.</desc>
+  <defs>
+    <linearGradient id="brand" x1="22" y1="20" x2="146" y2="148" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0969da"/>
+      <stop offset="1" stop-color="#1f883d"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="148" height="148" rx="30" fill="url(#brand)"/>
+  <rect x="21" y="21" width="126" height="126" rx="23" fill="#ffffff" opacity=".12"/>
+  <path d="M48 116V48h38c18 0 30 10 30 26 0 17-12 27-31 27H70v15H48Zm22-33h13c7 0 11-3 11-9s-4-9-11-9H70v18Z" fill="#ffffff"/>
+  <path d="M104 120c-14 0-24-8-27-21h21c1 3 3 5 7 5 5 0 8-4 8-10V48h22v47c0 16-12 25-31 25Z" fill="#ffffff" opacity=".94"/>
+</svg>
