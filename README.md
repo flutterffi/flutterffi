@@ -13,14 +13,14 @@
       </a>
       <h3><a href="https://github.com/platojobs">@platojobs</a></h3>
       <p>
-        Primary account for product work, notes, and broader engineering activity.
+        Main account. Product work, code notes, and engineering updates.
       </p>
       <p>
-        <a href="https://github.com/platojobs"><strong>Main account</strong></a>
+        <a href="https://github.com/platojobs"><strong>Profile</strong></a>
         ·
-        <a href="https://github.com/flutterffi?tab=repositories">Repos</a>
+        <a href="https://github.com/flutterffi?tab=repositories">Archive</a>
         ·
-        <a href="https://flutterffi.github.io/">Website</a>
+        <a href="https://flutterffi.github.io/">Web</a>
       </p>
     </td>
   </tr>

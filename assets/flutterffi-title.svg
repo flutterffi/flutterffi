@@ -6,7 +6,7 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
       font-size: 64px;
       font-weight: 700;
-      fill: #24292f;
+      fill: #0f1419;
     }
 
     #reveal rect {
@@ -15,16 +15,16 @@
 
     .cursor {
       animation: cursor 3.2s steps(10, end) infinite, blink .8s steps(1, end) infinite;
-      fill: #0969da;
+      fill: #0f1419;
     }
 
     @media (prefers-color-scheme: dark) {
       text {
-        fill: #f0f6fc;
+        fill: #e7e9ea;
       }
 
       .cursor {
-        fill: #58a6ff;
+        fill: #e7e9ea;
       }
     }
 

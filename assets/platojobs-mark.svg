@@ -1,22 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="168" height="168" viewBox="0 0 168 168" role="img" aria-labelledby="title desc">
   <title id="title">platojobs</title>
-  <desc id="desc">A minimal platojobs brand mark.</desc>
+  <desc id="desc">A minimal black and white platojobs brand mark.</desc>
   <style>
-    .ring { fill: #0969da; }
-    .core { fill: #ffffff; }
+    .core { fill: #0f1419; }
     .letter {
-      fill: #0969da;
+      fill: #ffffff;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
       font-size: 74px;
       font-weight: 800;
     }
 
     @media (prefers-color-scheme: dark) {
-      .ring { fill: #58a6ff; }
-      .letter { fill: #58a6ff; }
+      .core { fill: #e7e9ea; }
+      .letter { fill: #0f1419; }
     }
   </style>
-  <circle class="ring" cx="84" cy="84" r="72"/>
-  <circle class="core" cx="84" cy="84" r="58"/>
+  <circle class="core" cx="84" cy="84" r="72"/>
   <text class="letter" x="84" y="109" text-anchor="middle">P</text>
 </svg>
