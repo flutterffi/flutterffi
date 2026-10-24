@@ -1,17 +1,19 @@
-<table width="100%" cellpadding="0" cellspacing="0">
+<table width="100%">
   <tr>
-    <td width="50%" valign="top" style="padding: 0 24px 0 0;">
-      <h3 style="margin: 0 0 12px; font-size: 18px; font-weight: 600; color: #e6edf3;">Workspace</h3>
-      <ul style="margin: 0; padding-left: 18px; line-height: 1.9; color: #c9d1d9;">
-        <li><strong style="color: #e6edf3;">Mobile:</strong> Flutter, Dart, Swift, Objective-C, Kotlin</li>
-        <li><strong style="color: #e6edf3;">Frontend:</strong> Vue 3, TypeScript, HTML, CSS</li>
-        <li><strong style="color: #e6edf3;">Backend:</strong> Python, Go, GraphQL, REST APIs</li>
-        <li><strong style="color: #e6edf3;">Architecture:</strong> Bloc, Riverpod, Clean Architecture, Microservices</li>
+    <td width="50%" valign="top">
+      <img src="./assets/column-spacer.svg" alt="" width="100%" height="1" />
+      <h2>Workspace</h2>
+      <ul>
+        <li><strong>Mobile:</strong> Flutter, Dart, Swift, Objective-C, Kotlin</li>
+        <li><strong>Frontend:</strong> Vue 3, TypeScript, HTML, CSS</li>
+        <li><strong>Backend:</strong> Python, Go, GraphQL, REST APIs</li>
+        <li><strong>Architecture:</strong> Bloc, Riverpod, Clean Architecture, Microservices</li>
       </ul>
     </td>
-    <td width="50%" valign="top" style="padding: 0 0 0 24px;">
-      <h3 style="margin: 0 0 12px; font-size: 18px; font-weight: 600; color: #e6edf3;">Current Focus</h3>
-      <ul style="margin: 0; padding-left: 18px; line-height: 1.9; color: #c9d1d9;">
+    <td width="50%" valign="top">
+      <img src="./assets/column-spacer.svg" alt="" width="100%" height="1" />
+      <h2>Current Focus</h2>
+      <ul>
         <li>Advanced Flutter architecture patterns</li>
         <li>Native iOS and Android integration</li>
         <li>Vue 3 and TypeScript frontend systems</li>
