@@ -39,7 +39,7 @@ This profile is intentionally repository-first. For identity, long-form work, an
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-     
+           <img src="./assets/column-spacer.svg" alt="" width="100%" height="1" />
       <h2>Workspace</h2>
       <ul>
         <li><strong>Mobile:</strong> Flutter, Dart, Swift, Objective-C, Kotlin</li>
@@ -49,7 +49,7 @@ This profile is intentionally repository-first. For identity, long-form work, an
       </ul>
     </td>
     <td width="50%" valign="top">
-    
+      <img src="./assets/column-spacer.svg" alt="" width="100%" height="1" />
       <h2>Current Focus</h2>
       <ul>
         <li>Advanced Flutter architecture patterns</li>
